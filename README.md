@@ -16,8 +16,6 @@ Full-stack developer currently building **Relearnable**, an AI learning platform
 
 ---
 
-### 🛠️ Tech Stack
-
 <p align="left">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -36,8 +34,6 @@ Full-stack developer currently building **Relearnable**, an AI learning platform
 </p>
 
 ---
-
-### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sahilkamalny&show_icons=true&theme=dark&title_color=1C64F2&text_color=c9d1d9&icon_color=1C64F2&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
