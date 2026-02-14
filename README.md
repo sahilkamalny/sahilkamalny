@@ -1,8 +1,8 @@
 <div align="center">
-  <h1 align="center">Hi, I'm Sahil Kamal 👋</h1>
-  <h3 align="center">Software Engineer | Full Stack Developer</h3>
+  <h1 align="center">Sahil Kamal</h1>
+  <h3 align="center">Software Engineer | Full-Stack Developer</h3>
   <p align="center">
-    <a href="https://sahilkamal.com">Portfolio</a> •
+    <a href="https://sahilkamal.dev">Portfolio</a> •
     <a href="https://linkedin.com/in/sahilkamalny">LinkedIn</a> •
     <a href="mailto:sahilkamal.dev@gmail.com">Email</a>
   </p> 
@@ -11,9 +11,9 @@
 
 ### 🚀 About Me
 
-I'm a Full-stack software engineer currently building **Relearnable**, an AI learning platform serving 100+ active users. I specialize in building high-performance web applications and AI-driven systems. I'm also an **Incoming Back End Developer Intern @ IBM**.
+I'm a full-stack software engineer currently building **Relearnable**, an AI learning platform serving 100+ active users. I specialize in building high-performance web applications and AI-driven systems. I'm also an **Incoming Back End Developer Intern @ IBM**.
 
-- 🔭 I’m currently working on **Relearnable.ai** and **Tratlus**
+- 🔭 I’m currently working on **VisualPy** and **Relearnable**
 - 🏆 **RamHacks 2025 Winner** (Best Use of AI/ML)
 - 🎓 Computer Science @ Farmingdale State College
 
