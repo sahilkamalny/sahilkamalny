@@ -25,7 +25,6 @@ Full-stack developer currently building **Relearnable**, an AI learning platform
 </div>
 
 <br />
-<br />
 
 <p align="center">
   <!-- Languages -->
