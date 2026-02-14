@@ -1,8 +1,8 @@
 <div align="center">
   <h1 align="center">Sahil Kamal</h1>
   <p align="center">
-    <a href="https://sahilkamal.dev">Portfolio</a> •
-    <a href="https://linkedin.com/in/sahilkamalny">LinkedIn</a> •
+    <a href="https://sahilkamal.dev">Portfolio</a>  • 
+    <a href="https://linkedin.com/in/sahilkamalny">LinkedIn</a>  • 
     <a href="mailto:sahilkamal.dev@gmail.com">Email</a>
   </p> 
   <br/>
