@@ -45,5 +45,5 @@ Full-stack developer currently building **Relearnable**, an AI learning platform
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkamalny&theme=dark&mode=weekly&fire=1C64F2&ring=1C64F2&currStreakLabel=1C64F2&background=0d1117" height="150" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkamalny&theme=dark&mode=weekly&fire=1C64F2&ring=1C64F2&currStreakLabel=1C64F2&background=0d1117&hide_border=true" height="150" alt="streak graph" />
 </div>
