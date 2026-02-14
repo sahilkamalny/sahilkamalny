@@ -9,10 +9,10 @@
   <br/>
 </div>
 
-I'm a full-stack software engineer currently building **Relearnable**, an AI learning platform serving 100+ active users. I specialize in building high-performance web applications and AI-driven systems. I'm also an incoming **Back End Developer Intern @ IBM**.
+Full-stack developer currently building **Relearnable**, an AI learning platform serving 100+ active users. I work across the stack on web apps, systems tools, and LLM integrations -- comfortable picking up whatever the project needs. Incoming **Back End Developer Intern @ IBM**.
 
 - 🔭 I’m currently working on **VisualPy** and **Relearnable**
-- 🏆 **RamHacks 2025 Winner** (Best Use of AI/ML)
+- 🌐 Incoming Back End Developer Intern @ IBM
 - 🎓 Computer Science @ Farmingdale State College
 
 ---
@@ -41,8 +41,8 @@ I'm a full-stack software engineer currently building **Relearnable**, an AI lea
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sahilkamalny&show_icons=true&theme=dark&title_color=1C64F2&text_color=c9d1d9&icon_color=1C64F2&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sahilkamalny&layout=compact&theme=dark&title_color=1C64F2&text_color=c9d1d9&icon_color=1C64F2&hide_border=true&langs_count=6&bg_color=0d1117" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sahilkamalny&show_icons=true&theme=dark&title_color=1C64F2&text_color=c9d1d9&icon_color=1C64F2&hide_border=false&bg_color=0d1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sahilkamalny&layout=compact&theme=dark&title_color=1C64F2&text_color=c9d1d9&icon_color=1C64F2&hide_border=false&langs_count=6&bg_color=0d1117" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
