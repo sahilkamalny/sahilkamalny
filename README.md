@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-I'm a full-stack software engineer currently building **Relearnable**, an AI learning platform serving 100+ active users. I specialize in building high-performance web applications and AI-driven systems. I'm also an **Incoming Back End Developer Intern @ IBM**.
+I'm a full-stack software engineer currently building **Relearnable**, an AI learning platform serving 100+ active users. I specialize in building high-performance web applications and AI-driven systems. I'm also an incoming **Back End Developer Intern @ IBM**.
 
 - 🔭 I’m currently working on **VisualPy** and **Relearnable**
 - 🏆 **RamHacks 2025 Winner** (Best Use of AI/ML)
@@ -40,24 +40,13 @@ I'm a full-stack software engineer currently building **Relearnable**, an AI lea
 
 ---
 
-### 🌟 Selected Work
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[Relearnable](https://relearnable.ai)** | **Production AI Learning SaaS.** A platform with a Knowledge Correction Engine serving 100+ active users, improving assessment scores by 40%. | `Next.js` `RAG` `PostgreSQL` |
-| **[ActuallyFeed](https://actuallyfeed.com)** | **Donation Platform.** Full-stack donation system processing 250+ donations with geospatial impact tracking and Stripe integration. | `Stripe` `Next.js` `Maps` |
-| **[FlavorBot](https://github.com/aescorcia65/FlavorBot)** | **RamHacks Winner.** AI recipe generator with an interactive refinement loop and structured LLM outputs. | `Java` `OpenAI` `JavaFX` |
-| **[Tratlus](https://tratlus.vercel.app/)** | **AI Travel Planner.** Generates itineraries in <30s using swipe-based preferences and syncs with Google Calendar. | `React` `Firebase` `LLMs` |
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilkamalny&show_icons=true&theme=transparent&title_color=1C64F2&text_color=737373&icon_color=1C64F2&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkamalny&layout=compact&theme=transparent&title_color=1C64F2&text_color=737373&icon_color=1C64F2&hide_border=true&langs_count=6" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sahilkamalny&show_icons=true&theme=transparent&title_color=1C64F2&text_color=737373&icon_color=1C64F2&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sahilkamalny&layout=compact&theme=transparent&title_color=1C64F2&text_color=737373&icon_color=1C64F2&hide_border=true&langs_count=6" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://git.io/streak-stats?user=sahilkamalny&theme=transparent&mode=weekly&fire=1C64F2&ring=1C64F2&currStreakLabel=1C64F2" height="150" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkamalny&theme=transparent&mode=weekly&fire=1C64F2&ring=1C64F2&currStreakLabel=1C64F2" height="150" alt="streak graph" />
 </div>
