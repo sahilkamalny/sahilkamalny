@@ -1,6 +1,5 @@
 <div align="center">
   <h1 align="center">Sahil Kamal</h1>
-  <h3 align="center">Software Engineer</h3>
   <p align="center">
     <a href="https://sahilkamal.dev">Portfolio</a> •
     <a href="https://linkedin.com/in/sahilkamalny">LinkedIn</a> •
