@@ -8,12 +8,11 @@
   <br/>
 </div>
 
-Full-stack developer currently building **Relearnable**, an AI learning platform serving 100+ active users. I work across the stack on web apps, systems tools, and LLM integrations -- comfortable picking up whatever the project needs.
+Full-stack developer currently building **Relearnable**, an AI learning platform serving 100+ active users. I work across the stack on web apps, systems tools, and LLM integrations — comfortable picking up whatever the project needs.
 
 - 🌐 Incoming Back End Developer Intern @ IBM
 - 🎓 Computer Science @ Farmingdale State College
 
-<br />
 <br />
 
 <div align="center">
