@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Sahil Kamal</h1>
-  <h3 align="center">Software Engineer | Full-Stack Developer</h3>
+  <h3 align="center">Software Engineer</h3>
   <p align="center">
     <a href="https://sahilkamal.dev">Portfolio</a> •
     <a href="https://linkedin.com/in/sahilkamalny">LinkedIn</a> •
@@ -8,8 +8,6 @@
   </p> 
   <br/>
 </div>
-
-### 🚀 About Me
 
 I'm a full-stack software engineer currently building **Relearnable**, an AI learning platform serving 100+ active users. I specialize in building high-performance web applications and AI-driven systems. I'm also an incoming **Back End Developer Intern @ IBM**.
 
@@ -43,10 +41,10 @@ I'm a full-stack software engineer currently building **Relearnable**, an AI lea
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sahilkamalny&show_icons=true&theme=transparent&title_color=1C64F2&text_color=737373&icon_color=1C64F2&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sahilkamalny&layout=compact&theme=transparent&title_color=1C64F2&text_color=737373&icon_color=1C64F2&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sahilkamalny&show_icons=true&theme=dark&title_color=1C64F2&text_color=c9d1d9&icon_color=1C64F2&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sahilkamalny&layout=compact&theme=dark&title_color=1C64F2&text_color=c9d1d9&icon_color=1C64F2&hide_border=true&langs_count=6&bg_color=0d1117" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkamalny&theme=transparent&mode=weekly&fire=1C64F2&ring=1C64F2&currStreakLabel=1C64F2" height="150" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkamalny&theme=dark&mode=weekly&fire=1C64F2&ring=1C64F2&currStreakLabel=1C64F2&background=0d1117" height="150" alt="streak graph" />
 </div>
