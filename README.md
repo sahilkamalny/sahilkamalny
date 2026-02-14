@@ -14,9 +14,22 @@ Full-stack developer currently building **Relearnable**, an AI learning platform
 - 🌐 Incoming Back End Developer Intern @ IBM
 - 🎓 Computer Science @ Farmingdale State College
 
+<br />
+<br />
 
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sahilkamalny&show_icons=true&theme=dark&title_color=1C64F2&text_color=c9d1d9&icon_color=1C64F2&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sahilkamalny&layout=compact&theme=dark&title_color=1C64F2&text_color=c9d1d9&icon_color=1C64F2&hide_border=true&langs_count=6&bg_color=0d1117" height="150" alt="languages graph" />
+</div>
 
-<p align="left">
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkamalny&theme=dark&mode=weekly&fire=1C64F2&ring=1C64F2&currStreakLabel=1C64F2&background=0d1117&hide_border=true" height="150" alt="streak graph" />
+</div>
+
+<br />
+<br />
+
+<p align="center">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -32,14 +45,3 @@ Full-stack developer currently building **Relearnable**, an AI learning platform
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sahilkamalny&show_icons=true&theme=dark&title_color=1C64F2&text_color=c9d1d9&icon_color=1C64F2&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sahilkamalny&layout=compact&theme=dark&title_color=1C64F2&text_color=c9d1d9&icon_color=1C64F2&hide_border=true&langs_count=6&bg_color=0d1117" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkamalny&theme=dark&mode=weekly&fire=1C64F2&ring=1C64F2&currStreakLabel=1C64F2&background=0d1117&hide_border=true" height="150" alt="streak graph" />
-</div>
