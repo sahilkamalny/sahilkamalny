@@ -1,16 +1,63 @@
-## Hi there 👋
+<div align="center">
+  <h1 align="center">Hi, I'm Sahil Kamal 👋</h1>
+  <h3 align="center">Software Engineer | Full Stack Developer</h3>
+  <p align="center">
+    <a href="https://sahilkamal.com">Portfolio</a> •
+    <a href="https://linkedin.com/in/sahilkamalny">LinkedIn</a> •
+    <a href="mailto:sahilkamal.dev@gmail.com">Email</a>
+  </p> 
+  <br/>
+</div>
 
-<!--
-**sahilkamalny/sahilkamalny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a Full-stack software engineer currently building **Relearnable**, an AI learning platform serving 100+ active users. I specialize in building high-performance web applications and AI-driven systems. I'm also an **Incoming Back End Developer Intern @ IBM**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Relearnable.ai** and **Tratlus**
+- 🏆 **RamHacks 2025 Winner** (Best Use of AI/ML)
+- 🎓 Computer Science @ Farmingdale State College
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <!-- Backend/DB -->
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+---
+
+### 🌟 Selected Work
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Relearnable](https://relearnable.ai)** | **Production AI Learning SaaS.** A platform with a Knowledge Correction Engine serving 100+ active users, improving assessment scores by 40%. | `Next.js` `RAG` `PostgreSQL` |
+| **[ActuallyFeed](https://actuallyfeed.com)** | **Donation Platform.** Full-stack donation system processing 250+ donations with geospatial impact tracking and Stripe integration. | `Stripe` `Next.js` `Maps` |
+| **[FlavorBot](https://github.com/aescorcia65/FlavorBot)** | **RamHacks Winner.** AI recipe generator with an interactive refinement loop and structured LLM outputs. | `Java` `OpenAI` `JavaFX` |
+| **[Tratlus](https://tratlus.vercel.app/)** | **AI Travel Planner.** Generates itineraries in <30s using swipe-based preferences and syncs with Google Calendar. | `React` `Firebase` `LLMs` |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilkamalny&show_icons=true&theme=transparent&title_color=1C64F2&text_color=737373&icon_color=1C64F2&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkamalny&layout=compact&theme=transparent&title_color=1C64F2&text_color=737373&icon_color=1C64F2&hide_border=true&langs_count=6" height="150" alt="languages graph"  />
+</div>
+
+<div align="center">
+  <img src="https://git.io/streak-stats?user=sahilkamalny&theme=transparent&mode=weekly&fire=1C64F2&ring=1C64F2&currStreakLabel=1C64F2" height="150" alt="streak graph"  />
+</div>
