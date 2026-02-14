@@ -40,8 +40,8 @@ Full-stack developer currently building **Relearnable**, an AI learning platform
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sahilkamalny&show_icons=true&theme=dark&title_color=1C64F2&text_color=c9d1d9&icon_color=1C64F2&hide_border=false&bg_color=0d1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sahilkamalny&layout=compact&theme=dark&title_color=1C64F2&text_color=c9d1d9&icon_color=1C64F2&hide_border=false&langs_count=6&bg_color=0d1117" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sahilkamalny&show_icons=true&theme=dark&title_color=1C64F2&text_color=c9d1d9&icon_color=1C64F2&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sahilkamalny&layout=compact&theme=dark&title_color=1C64F2&text_color=c9d1d9&icon_color=1C64F2&hide_border=true&langs_count=6&bg_color=0d1117" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
